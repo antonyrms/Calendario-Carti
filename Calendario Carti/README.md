@@ -5,7 +5,7 @@
 > status: concluido ✔️
 
 > Funcionalidades: </br>
-> Dark Mode </br>
+> Playboi Carti </br>
 > Agendamento de evento </br>
 > Deletar eventos ja existentes </br>
 > Navegar pelos mêses anteriores e posteriores </br>
